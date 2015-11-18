@@ -1,0 +1,5 @@
+name: Active string Formatter
+type: module
+description: 'A field formatter to display the active class on strings which link to their entity.'
+core: 8.x
+package: Field types
